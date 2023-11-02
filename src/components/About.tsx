@@ -39,6 +39,15 @@ export default class About extends Component {
               textDecoration: "5px dashed underline"
             }}
           >KASHMIR</h1>
+          <p
+            style={{
+              fontSize: "2rem",
+              fontWeight: 'bolder',
+              color: "#808080",
+              textTransform: 'capitalize'
+            }}>
+            Kashmir, where nature's beauty and tranquility merge in a timeless embrace.
+          </p>
         </div>
       </div>
     )
